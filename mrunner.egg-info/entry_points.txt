@@ -1,0 +1,6 @@
+[console_scripts]
+command_gen = mrunner.command_gen:main
+mrunner_kube = mrunner.mrunner_kubernetes_cli:main
+mrunner_local = mrunner.mrunner_cli:main
+mrunner_plgrid = mrunner.mrunner_plgrid_cli:main
+
